@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Fonjihill/NodeJs-Api/issues"
   },
-  "homepage": "https://github.com/Fonjihill/NodeJs-Api#readme"
+  "homepage": "https://github.com/Fonjihill/NodeJs-Api#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
